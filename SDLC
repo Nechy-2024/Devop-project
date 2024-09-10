@@ -1,0 +1,20 @@
+**WHAT_IS_SOFTWARE_DEVELOPMENT_LIFE_CYCLE**
+
+According to AWS, Software Development Lifecycle (SDLC) is the cost-effective and time-efficient process that development teams use to design and build high-quality software. The goal of SDLC is to minimize project risks through forward planning so that software meets customer expectations during production and beyond. This methodology outlines a series of steps that divide the software development process into tasks you can assign, complete, and measure.
+
+**Some of the importance include;**
+
+- Increased visibility of the development process for all stakeholders involved
+- Efficient estimation, planning, and scheduling
+- Improved risk management and cost estimation
+- Systematic software delivery and better customer satisfaction
+
+**SDLC has 7 basic stages**;
+
+- **Planning**: In this phase, the project leads to defining the project’s purpose and the desired result. By the end of this phase (or, at the very least, the next one), each team member must understand their roles and tasks.
+- **Requirements**: Here, the project lead analyzes the product or client’s goals and decides on the features to aim for as a final goal. Defining and establishing requirements determines what the application will do once launched, the necessary components, and the resources needed to launch it.
+- **Design and prototype**: The design phase defines how a software application will work. During this phase, teams decide on the programming language, screen layouts, and relevant documentation they will use. Prototyping is also part of this phase. A prototype is a basic idea of how the application looks and works.
+- **Software development**: Prototyping is also part of this phase. A prototype is a basic idea of how the application looks and works. Depending on each team’s model, the phase may be conducted in sprints (Agile) or a single block (Waterfall). Teams spend most of their time during this phase ensuring that the application will work efficiently.
+- **Testing**: Often, testing happens in parallel with development, as developers write and test the code they’ve produced before moving on to the next coding task. During this phase, different types of testing occur, such as code quality, unit testing, integration testing, performance testing, and security testing.
+- **Deployment**: The deployment process starts once the testing phase is over and there are no bugs or errors in the development backlog. The team ensures that the software is up-to-date and secure enough for users and pushes it from the development environment to a live environment–usually an app store. During this phase, the tech support team looks for user feedback and ensures it reaches the dev team.
+- **Maintenance**: At this point in the SDLC cycle, the application is successfully launched and being used.
